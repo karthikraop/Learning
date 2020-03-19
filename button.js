@@ -1,9 +1,9 @@
-this is karthik
-capital one
-delware
-i'm in pittsburgh
-PA, 15237
-<doctype! html5>
+<!doctype html>
 <html>
-    <body>
-<h1> karthik </h1>
+<body style=background-color:red>
+
+<h1 style=text-align:center> Name </h1>
+<h3 style=color:Blue;text-align:center> Karthik </h3>
+
+</body>
+</html>
